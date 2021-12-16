@@ -1,5 +1,34 @@
 class Hallo {
+
+sdfsdf
+sdf
+
+sdfsdf
+sdf
 	
 String doof;
+dsadas
+
+das
+d
+as
+d
+as
+da
+sd
+as
+d
+as
+d
+as
+da
+s
+da
+s
+da
+sd
+a
+sd
+
 
 }
